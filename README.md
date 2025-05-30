@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="coding gif" />
+  <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=ecf05e477e5kocj6pkul71x627vynppwpk76xrc88rj2umxi&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="150" alt="hacker meme gif" />
 </div>
 
 ---
@@ -71,9 +71,3 @@
 </div>
 
 ---
-
-### ✍️ Latest from Medium
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Alex-byteai&theme=merko" alt="Latest Medium posts" />
-</div>
