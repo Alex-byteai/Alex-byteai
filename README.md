@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9mNDJlYmtudmxldWJjbXVwdjl4N25naWh0NTJuNjViMXBtbmM5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="coding gif" />
 </div>
 
 ---
