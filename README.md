@@ -22,12 +22,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Alex-byteai/count.svg?" />
-</div>
-
----
-
 ### 👨‍💻 About Me
 
 <p align="center">
